@@ -1,6 +1,6 @@
 
 
-# NoSteam-pz-server
+# NoSteam-pz-server Build 41
 
 Step 1: 
 - Download GOG Project Zomboid [NoSteam]
