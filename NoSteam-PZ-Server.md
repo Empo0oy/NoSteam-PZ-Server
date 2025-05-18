@@ -17,7 +17,7 @@ Step 3:
 - Open Your Project Zomboid
 - Click "JOIN" on your Menu
 - Type IP and Port
-- IP: 
+- IP: 24.155.44.249
 - Port: 62000
 - No Password
 - Remember your Username and Password
